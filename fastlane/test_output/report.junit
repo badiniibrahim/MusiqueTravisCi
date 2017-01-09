@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='MusiqueUITests.xctest' tests='3' failures='0'>
+  <testsuite name='MusiqueTests.MusiqueTests' tests='2' failures='0'>
+    <testcase classname='MusiqueTests.MusiqueTests' name='testExample' time='0.001'/>
+    <testcase classname='MusiqueTests.MusiqueTests' name='testPerformanceExample' time='0.801'/>
+  </testsuite>
+  <testsuite name='MusiqueUITests.MusiqueUITests' tests='1' failures='0'>
+    <testcase classname='MusiqueUITests.MusiqueUITests' name='testExample' time='9.055'/>
+  </testsuite>
+</testsuites>

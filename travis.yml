@@ -1,0 +1,16 @@
+language: objective-c
+osx_image: xcode8.0
+xcode_project: Musique.xcodeproj
+xcode_scheme: MusiqueTests
+language: objective-c
+branches:
+    only:
+        - develop
+        - master
+notifications:
+    email: false
+before_install:
+    - gem install bundler
+    - bundle install && brew bundle
+script:
+    - bundle exec fastlane tests
