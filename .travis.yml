@@ -5,7 +5,7 @@ xcode_scheme: MusiqueTests
 language: objective-c
 branches:
     only:
-        - develop 
+        - develop
         - master
 notifications:
     email: false
@@ -13,4 +13,4 @@ before_install:
     - gem install bundler
     - bundle install && brew bundle
 script:
-    - bundle exec fastlane Musique    
+    - bundle exec fastlane Musique

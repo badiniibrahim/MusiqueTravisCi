@@ -24,6 +24,7 @@
 		C98CAFA31E1F0B78004D4F5A /* jul.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C98CAFA21E1F0B78004D4F5A /* jul.jpg */; };
 		C98CAFA51E1F0C2D004D4F5A /* SongTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98CAFA41E1F0C2D004D4F5A /* SongTableViewCell.swift */; };
 		C98CAFA71E1F114C004D4F5A /* MusicLibrary.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98CAFA61E1F114C004D4F5A /* MusicLibrary.swift */; };
+		C9B790651E24548500AFFA63 /* .travis.yml in Resources */ = {isa = PBXBuildFile; fileRef = C9B790641E24548500AFFA63 /* .travis.yml */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		C98CAFA21E1F0B78004D4F5A /* jul.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jul.jpg; path = ../../../jul.jpg; sourceTree = "<group>"; };
 		C98CAFA41E1F0C2D004D4F5A /* SongTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongTableViewCell.swift; sourceTree = "<group>"; };
 		C98CAFA61E1F114C004D4F5A /* MusicLibrary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicLibrary.swift; sourceTree = "<group>"; };
+		C9B790641E24548500AFFA63 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C98CAF5E1E1F0874004D4F5A = {
 			isa = PBXGroup;
 			children = (
+				C9B790641E24548500AFFA63 /* .travis.yml */,
 				C982567A1E22E979000915ED /* Brewfile */,
 				C98256781E22E92B000915ED /* Gemfile */,
 				C96B68081E22D9D2007A139C /* fastlane */,
@@ -264,6 +267,7 @@
 				C98CAF751E1F0874004D4F5A /* LaunchScreen.storyboard in Resources */,
 				C98CAF721E1F0874004D4F5A /* Assets.xcassets in Resources */,
 				C98CAFA11E1F0B72004D4F5A /* gradur.jpg in Resources */,
+				C9B790651E24548500AFFA63 /* .travis.yml in Resources */,
 				C98CAF701E1F0874004D4F5A /* Main.storyboard in Resources */,
 				C98CAFA31E1F0B78004D4F5A /* jul.jpg in Resources */,
 				C98CAF9D1E1F0B5C004D4F5A /* mhd.jpg in Resources */,
