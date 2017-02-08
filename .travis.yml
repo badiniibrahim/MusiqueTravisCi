@@ -12,5 +12,5 @@ notifications:
 before_install:
     - gem install bundler
     - bundle install && brew bundle
-script:
-    - bundle exec fastlane Musique 
+script: 
+    - bundle exec fastlane Musique
