@@ -62,10 +62,10 @@
 		C98CAF8C1E1F0874004D4F5A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C98CAF981E1F09F1004D4F5A /* LibraryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LibraryTableViewController.swift; sourceTree = "<group>"; };
 		C98CAF9A1E1F0A3E004D4F5A /* PlayerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
-		C98CAF9C1E1F0B5C004D4F5A /* mhd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mhd.jpg; path = ../../../mhd.jpg; sourceTree = "<group>"; };
-		C98CAF9E1E1F0B66004D4F5A /* soprano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = soprano.jpg; path = ../../../soprano.jpg; sourceTree = "<group>"; };
-		C98CAFA01E1F0B72004D4F5A /* gradur.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gradur.jpg; path = ../../../gradur.jpg; sourceTree = "<group>"; };
-		C98CAFA21E1F0B78004D4F5A /* jul.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jul.jpg; path = ../../../jul.jpg; sourceTree = "<group>"; };
+		C98CAF9C1E1F0B5C004D4F5A /* mhd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = mhd.jpg; path = ../../mhd.jpg; sourceTree = "<group>"; };
+		C98CAF9E1E1F0B66004D4F5A /* soprano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = soprano.jpg; path = ../../soprano.jpg; sourceTree = "<group>"; };
+		C98CAFA01E1F0B72004D4F5A /* gradur.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = gradur.jpg; path = ../../gradur.jpg; sourceTree = "<group>"; };
+		C98CAFA21E1F0B78004D4F5A /* jul.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = jul.jpg; path = ../../jul.jpg; sourceTree = "<group>"; };
 		C98CAFA41E1F0C2D004D4F5A /* SongTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongTableViewCell.swift; sourceTree = "<group>"; };
 		C98CAFA61E1F114C004D4F5A /* MusicLibrary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicLibrary.swift; sourceTree = "<group>"; };
 		C9B790641E24548500AFFA63 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
@@ -102,6 +102,10 @@
 				C9B790641E24548500AFFA63 /* .travis.yml */,
 				C982567A1E22E979000915ED /* Brewfile */,
 				C98256781E22E92B000915ED /* Gemfile */,
+				C98CAF9C1E1F0B5C004D4F5A /* mhd.jpg */,
+				C98CAF9E1E1F0B66004D4F5A /* soprano.jpg */,
+				C98CAFA01E1F0B72004D4F5A /* gradur.jpg */,
+				C98CAFA21E1F0B78004D4F5A /* jul.jpg */,
 				C96B68081E22D9D2007A139C /* fastlane */,
 				C98CAF691E1F0874004D4F5A /* Musique */,
 				C98CAF7E1E1F0874004D4F5A /* MusiqueTests */,
@@ -132,10 +136,6 @@
 				C98CAF9A1E1F0A3E004D4F5A /* PlayerViewController.swift */,
 				C98CAFA41E1F0C2D004D4F5A /* SongTableViewCell.swift */,
 				C98CAFA61E1F114C004D4F5A /* MusicLibrary.swift */,
-				C98CAF9C1E1F0B5C004D4F5A /* mhd.jpg */,
-				C98CAF9E1E1F0B66004D4F5A /* soprano.jpg */,
-				C98CAFA01E1F0B72004D4F5A /* gradur.jpg */,
-				C98CAFA21E1F0B78004D4F5A /* jul.jpg */,
 			);
 			path = Musique;
 			sourceTree = "<group>";
