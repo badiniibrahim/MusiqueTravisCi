@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C961438F1E4CB23900B10B7B /* jul.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C961438E1E4CB23900B10B7B /* jul.jpg */; };
+		C96143911E4CB24A00B10B7B /* soprano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C96143901E4CB24A00B10B7B /* soprano.jpg */; };
+		C96143931E4CB25700B10B7B /* gradur.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C96143921E4CB25700B10B7B /* gradur.jpg */; };
+		C96143951E4CB26400B10B7B /* mhd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C96143941E4CB26400B10B7B /* mhd.jpg */; };
+		C96143971E4CB27B00B10B7B /* soprano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C96143961E4CB27B00B10B7B /* soprano.jpg */; };
 		C96B68091E22D9D2007A139C /* fastlane in Resources */ = {isa = PBXBuildFile; fileRef = C96B68081E22D9D2007A139C /* fastlane */; };
 		C98256791E22E92B000915ED /* Gemfile in Resources */ = {isa = PBXBuildFile; fileRef = C98256781E22E92B000915ED /* Gemfile */; };
 		C982567B1E22E979000915ED /* Brewfile in Resources */ = {isa = PBXBuildFile; fileRef = C982567A1E22E979000915ED /* Brewfile */; };
@@ -45,6 +50,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C961438E1E4CB23900B10B7B /* jul.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = jul.jpg; sourceTree = "<group>"; };
+		C96143901E4CB24A00B10B7B /* soprano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = soprano.jpg; sourceTree = "<group>"; };
+		C96143921E4CB25700B10B7B /* gradur.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gradur.jpg; sourceTree = "<group>"; };
+		C96143941E4CB26400B10B7B /* mhd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mhd.jpg; sourceTree = "<group>"; };
+		C96143961E4CB27B00B10B7B /* soprano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = soprano.jpg; sourceTree = "<group>"; };
 		C96B68081E22D9D2007A139C /* fastlane */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fastlane; sourceTree = "<group>"; };
 		C98256781E22E92B000915ED /* Gemfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Gemfile; sourceTree = "<group>"; };
 		C982567A1E22E979000915ED /* Brewfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Brewfile; sourceTree = "<group>"; };
@@ -99,6 +109,7 @@
 		C98CAF5E1E1F0874004D4F5A = {
 			isa = PBXGroup;
 			children = (
+				C96143901E4CB24A00B10B7B /* soprano.jpg */,
 				C9B790641E24548500AFFA63 /* .travis.yml */,
 				C982567A1E22E979000915ED /* Brewfile */,
 				C98256781E22E92B000915ED /* Gemfile */,
@@ -127,6 +138,10 @@
 		C98CAF691E1F0874004D4F5A /* Musique */ = {
 			isa = PBXGroup;
 			children = (
+				C96143961E4CB27B00B10B7B /* soprano.jpg */,
+				C96143941E4CB26400B10B7B /* mhd.jpg */,
+				C96143921E4CB25700B10B7B /* gradur.jpg */,
+				C961438E1E4CB23900B10B7B /* jul.jpg */,
 				C98CAF6A1E1F0874004D4F5A /* AppDelegate.swift */,
 				C98CAF6E1E1F0874004D4F5A /* Main.storyboard */,
 				C98CAF711E1F0874004D4F5A /* Assets.xcassets */,
@@ -264,13 +279,18 @@
 			files = (
 				C982567B1E22E979000915ED /* Brewfile in Resources */,
 				C98256791E22E92B000915ED /* Gemfile in Resources */,
+				C96143911E4CB24A00B10B7B /* soprano.jpg in Resources */,
 				C98CAF751E1F0874004D4F5A /* LaunchScreen.storyboard in Resources */,
 				C98CAF721E1F0874004D4F5A /* Assets.xcassets in Resources */,
 				C98CAFA11E1F0B72004D4F5A /* gradur.jpg in Resources */,
+				C96143931E4CB25700B10B7B /* gradur.jpg in Resources */,
 				C9B790651E24548500AFFA63 /* .travis.yml in Resources */,
 				C98CAF701E1F0874004D4F5A /* Main.storyboard in Resources */,
 				C98CAFA31E1F0B78004D4F5A /* jul.jpg in Resources */,
 				C98CAF9D1E1F0B5C004D4F5A /* mhd.jpg in Resources */,
+				C961438F1E4CB23900B10B7B /* jul.jpg in Resources */,
+				C96143971E4CB27B00B10B7B /* soprano.jpg in Resources */,
+				C96143951E4CB26400B10B7B /* mhd.jpg in Resources */,
 				C96B68091E22D9D2007A139C /* fastlane in Resources */,
 				C98CAF9F1E1F0B66004D4F5A /* soprano.jpg in Resources */,
 			);
